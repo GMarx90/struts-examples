@@ -23,6 +23,7 @@ import com.opensymphony.xwork2.ActionSupport;
 
 public class ActionB extends ActionSupport {
 
+
     private String name;
 
     public String execute() throws Exception {
